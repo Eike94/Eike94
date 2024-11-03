@@ -23,7 +23,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho uma gr
 ## 📈 Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EIKE94&show_icons=true&theme=blue-green" alt="centered image">
   </center>
