@@ -35,7 +35,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho uma gr
 ## 🌍 Redes Sociais.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique_eike/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-magalhaes-802299230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-magalhaes-5b6a7336b/)
 
 
 ---
